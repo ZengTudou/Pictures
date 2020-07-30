@@ -1,1 +1,202 @@
-<mxfile host="app.diagrams.net" modified="2020-07-30T09:55:21.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" version="13.5.5" etag="_qWOLUz5xfTqg495iimR" type="github"><diagram id="O78tnBGggXK7BZB1O4DU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-30T11:46:37.473Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="zAY6-ZJEYnJWEDS1PM06" version="13.5.5" type="github">
+  <diagram id="O78tnBGggXK7BZB1O4DU" name="Page-1">
+    <mxGraphModel dx="1426" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-64" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="850" y="80" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-63" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="690" y="80" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-62" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="240" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-37" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="360" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="80" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="290" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-1" value="SettingEScaleFragment" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="181" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-2" value="onCreate()" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="181" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-3" value="SettingEScalePresenter" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-4" value="init()" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-5" value="EScaleManager" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-8" value="init()" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="730" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-9" value="注册硬件SDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="710" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-10" value="EScaleStorage" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="890" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-11" value="get()" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="890" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-13" value="" style="endArrow=classic;html=1;fontSize=10;exitX=0.93;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wm6AGOMVW3G9E7vJDYp_-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="140" as="sourcePoint" />
+            <mxPoint x="500" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-14" value="" style="endArrow=classic;html=1;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="140" as="sourcePoint" />
+            <mxPoint x="720" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-15" value="" style="endArrow=classic;html=1;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="140" as="sourcePoint" />
+            <mxPoint x="880" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-16" value="注册Manager监听" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="151" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-17" value="onViewCreated()" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="181" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-18" value="loadScaleInfo()" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-20" value="getEScale()" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="730" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-21" value="" style="endArrow=classic;html=1;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="200" as="sourcePoint" />
+            <mxPoint x="480" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-22" value="" style="endArrow=classic;html=1;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="200" as="sourcePoint" />
+            <mxPoint x="710" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-23" value="loadScaleInfoSuccess(eScales)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="181" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-24" value="" style="endArrow=classic;html=1;fontSize=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="210" as="sourcePoint" />
+            <mxPoint x="290" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-25" value="设置视图的Adapter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="128.5" y="250" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-26" value="监听事件回调" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="151" y="300" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-27" value="onDeviceStatusChange(EScale)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="181" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-28" value="onReceive(weight)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="181" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-30" value="电子秤重量变化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="146" y="361" width="100" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-31" value="电子秤状态变化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="151" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-34" value="SettingEScaleDialog" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-35" value="点击切换/添加" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="156" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-36" value="" style="endArrow=classic;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="417" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-39" value="onViewInit()" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-40" value="注册Manager监听" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="356" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-42" value="监听事件回调" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="362" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-43" value="onDeviceStatusChange(EScale)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="505" y="383.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-44" value="onReceive(weight)" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="505" y="415" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-45" value="电子秤重量变化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="475" y="427" width="100" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-46" value="电子秤状态变化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="480" y="397" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-47" value="mEScaleRunnable.run()" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="690" y="383.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-48" value="刷新View" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="660" y="398.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-51" value="Button点击" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-52" value="" style="endArrow=classic;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="wm6AGOMVW3G9E7vJDYp_-41" target="wm6AGOMVW3G9E7vJDYp_-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="456" as="sourcePoint" />
+            <mxPoint x="690" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-54" value="connect()" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="730" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-58" value="" style="endArrow=classic;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wm6AGOMVW3G9E7vJDYp_-51" target="wm6AGOMVW3G9E7vJDYp_-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="350" as="sourcePoint" />
+            <mxPoint x="670" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-59" value="会先把被选择的电子秤信息保存到本地，再调用电子秤SDK去连接" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="790" y="250" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-60" value="save()" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="890" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wm6AGOMVW3G9E7vJDYp_-61" value="" style="endArrow=classic;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="wm6AGOMVW3G9E7vJDYp_-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="230" as="sourcePoint" />
+            <mxPoint x="1060" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
